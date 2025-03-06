@@ -61,7 +61,7 @@ Date, Month, Year, Week Number, and Day Type (Weekday/Weekend)
 📸 Screenshots & Data Model
 Include images of:
 
-Dashboard views ()
+Dashboard views (PowerBI_report.png)
 
 Data model relationships ()
 
