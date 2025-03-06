@@ -61,11 +61,11 @@ Date, Month, Year, Week Number, and Day Type (Weekday/Weekend)
 📸 Screenshots & Data Model
 Include images of:
 
-Dashboard views
+Dashboard views ()
 
-Data model relationships
+Data model relationships ()
 
-Fact and dimension table structures
+Fact and dimension table structures ()
 
 📊 Power BI Dashboard
 An interactive Power BI Dashboard has been created to visualize key hotel business insights.
