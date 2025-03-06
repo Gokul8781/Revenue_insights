@@ -58,15 +58,6 @@ The date table includes key attributes for business insights:
 
 Date, Month, Year, Week Number, and Day Type (Weekday/Weekend)
 
-📸 Screenshots & Data Model
-Include images of:
-
-Dashboard views (PowerBI_report.png)
-
-Data model relationships ()
-
-Fact and dimension table structures ()
-
 📊 Power BI Dashboard
 An interactive Power BI Dashboard has been created to visualize key hotel business insights.
 
